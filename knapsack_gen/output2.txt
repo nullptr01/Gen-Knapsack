@@ -1,0 +1,65 @@
+Problem-2
+Roulette Select, Capacity = 65
+
+Population: 100  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Population: 200  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Population: 250  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Population: 300  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Population: 400  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Population: 500  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Population: 750  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Roulette Select, Capacity = 85
+
+Population: 100  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
+Population: 200  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
+Population: 250  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
+Population: 300  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
+Population: 400  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
+Population: 500  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
+Population: 750  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
+Group Select, Capacity = 65
+
+Population: 100  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Population: 200  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Population: 250  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Population: 300  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Population: 400  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Population: 500  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Population: 750  Generations: 300  Max Profit: 155  Items Chosen :[2, 6]
+
+Group Select, Capacity = 85
+
+Population: 100  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
+Population: 200  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
+Population: 250  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
+Population: 300  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
+Population: 400  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
+Population: 500  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
+Population: 750  Generations: 300  Max Profit: 195  Items Chosen :[1, 4, 6]
+
